@@ -1,7 +1,7 @@
 # GDBS
 
 
-Python Code Guide: GDBS
+Python code guide and documentation: GDBS
 
 **1. Import Libraries and Prepare Data**
    
